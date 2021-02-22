@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <style type="text/css">
+      form label {
+          display: inline-block;
+          text-align: right;
+          width: 100px;
+      }
+      body {
+          text-align: center;
+      }
+    </style>
+  </head>
+
+  <body>
+    <form  action="https://api.bilibili.com/x/article/creative/draft/addupdate" method="POST">
+      <p>
+        <label>标题：</label>
+        <input type="text" name="title" value=""/>
+      </p>
+      <p>
+        <label>html body：</label>
+        <input type="text" name="content" value=""/>
+      </p>
+      <p>
+        <label>aid：</label>
+        <input type="text" name="aid" value=""/>
+      </p>
+      <p>
+        <label>csrf：</label>
+        <input type="text" name="csrf" value=""/>
+      </p>
+      <input type="submit" value="提交"/>
+    </form>
+  </body>
+</html>
