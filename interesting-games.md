@@ -1,12 +1,12 @@
 
 # &#30446;&#24405;
 
-1.  [Android](#org149b022)
-2.  [PC](#org3eb3196)
+1.  [Android](#org2005893)
+2.  [PC](#org930aadf)
 
 
 
-<a id="org149b022"></a>
+<a id="org2005893"></a>
 
 # Android
 
@@ -60,7 +60,7 @@
 </table>
 
 
-<a id="org3eb3196"></a>
+<a id="org930aadf"></a>
 
 # PC
 
@@ -103,6 +103,24 @@
 <tr>
 <td class="org-left">泰坦陨落2</td>
 <td class="org-left">Titanfall 2</td>
+</tr>
+
+
+<tr>
+<td class="org-left">传送门2</td>
+<td class="org-left">Portal 2</td>
+</tr>
+
+
+<tr>
+<td class="org-left">镜之边缘</td>
+<td class="org-left">Mirror's Edge</td>
+</tr>
+
+
+<tr>
+<td class="org-left">古墓丽影8：地下世界</td>
+<td class="org-left">Tomb Raider Underworld</td>
 </tr>
 </tbody>
 </table>
